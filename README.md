@@ -1,1 +1,33 @@
 # ulubek.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Hello, World!</title>
+</head>
+
+<body>
+  <h1>xushnud bn nizom urushgani</h1>
+
+  <a href="https://youtube.com/shorts/a6A9AkCMwK0?si=c3T_JXcpJbcShnAG">
+    Shu so'z ustiga bossangiz, Nizomiddin va Xushnudni nima qilganini ko'rasiz
+  </a>
+
+  <br><br>
+
+  <address>
+    8-"B" qvzga borib rasvo qildi hahaha
+  </address>
+
+  <p>
+    Davomini ko'rmoqchi bo'lsangiz, video komentiga "davomini qo'y" deb yozing
+  </p>
+
+  <h2>Cristiano Ronaldo rasmi:</h2>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg"
+       alt="Cristiano Ronaldo"
+       width="300">
+
+</body>
+</html>
